@@ -96,7 +96,7 @@ html5之前网页中会这样写：
 
 ```
 
-## 360是哟个Google Chrome Frame
+## 360 Google Chrome Frame
 
 ```html
 
